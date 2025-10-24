@@ -31,7 +31,12 @@ Machine Learning (specifically **Linear Regression**) is applied to accurately *
 - Enabled dynamic calibration — adapting to different users and movement ranges.
 
 ### 🎥 4. Demonstration  
-- The repository includes an [🎥 **MP4 video demo**](./VR_Game_Video.mp4) showcasing the full system in action — from real-world movement capture to VR interaction. 
+- A full demo video is included in this repository.  
+Because of its size, GitHub cannot stream it directly — please click below to **download and watch locally**:
+
+➡️ [**Download demo_video.mp4 (View Raw)**](./VR_Game_Video.mp4)
+
+This video showcases real-world motion capture using BNO055 sensors, the Unity VR environment, and ML-based motion mapping.
 
 ---
 
